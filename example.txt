@@ -1,1 +1,1 @@
-"This is example file"
+"We have replaced it with new text "
